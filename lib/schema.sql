@@ -20,5 +20,3 @@ CREATE TABLE books (
   year TEXT,
   series TEXT
 );
-
-
