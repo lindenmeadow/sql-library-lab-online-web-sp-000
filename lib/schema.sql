@@ -10,5 +10,5 @@ CREATE TABLE subgenre (
 );
 
 CREATE TABLE authors (
-  
+
 );
