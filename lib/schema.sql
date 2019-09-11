@@ -3,3 +3,12 @@ CREATE TABLE series (
   author_id TEXT,
   subgenre_id TEXT
 );
+
+CREATE TABLE subgenre (
+  id INTEGER PRIMARY KEY,
+  name TEXT
+);
+
+CREATE TABLE authors (
+  
+);
